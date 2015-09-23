@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Rita/StudioProjects/EffectiveNavigation/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="SMSPayment">短信支付</string>
+    <string name="app_name">手机支付</string>
+    <string name="demo_collection">外部调用</string>
+    <string name="demo_external_activity">QR 扫描支付</string>
+    <string name="dummy_section_text">Section %1d is just a dummy section.</string>
+    <string name="payment">付款</string>
+    <string name="request_payment">收款</string>
+</resources>
